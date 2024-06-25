@@ -1,8 +1,8 @@
 # Customer Personality Analysis
 ## Objective
+The objective of this project is to enhance customer engagement and optimize marketing efforts. By clustering customers into distinct segments based on their behaviors, preferences, and demographics, it is easier to implement targeted marketing strategies. This approach not only improves the relevance and effectiveness of marketing but also increases customer satisfaction.
 
 ## Data Description
-
 ### People
 - ID: Customer's unique identifier
 - Year_Birth: Customer's birth year
