@@ -38,5 +38,6 @@ The objective of this project is to enhance customer engagement and optimize mar
 - NumStorePurchases: Number of purchases made directly in stores
 - NumWebVisitsMonth: Number of visits to company’s website in the last month
 
-## Files used
+## Source
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data?select=marketing_campaign.csv
 marketing_campaign.csv
