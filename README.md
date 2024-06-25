@@ -40,4 +40,3 @@ The objective of this project is to enhance customer engagement and optimize mar
 
 ## Source
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data?select=marketing_campaign.csv
-marketing_campaign.csv
