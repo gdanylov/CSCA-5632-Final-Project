@@ -1,1 +1,2 @@
-# CSCA-5632-Final-Project
+# Unsupervised Algorithms in Machine Learning Final Project
+## Customer Personality Analysis
